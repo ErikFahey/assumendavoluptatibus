@@ -1,0 +1,20 @@
+{
+  "name": "assumendavoluptatibus",
+  "version": "1.0.0",
+  "description": "A modest little Typescript helper library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErikFahey/assumendavoluptatibus.git"
+  },
+  "main": "./dist/index.js",
+  "browser": "./src/index.ts",
+  "sideEffects": false,
+  "author": "LavonRohan",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  },
+  "bugs": {
+    "url": "https://github.com/ErikFahey/assumendavoluptatibus.git/issues"
+  }
+}
